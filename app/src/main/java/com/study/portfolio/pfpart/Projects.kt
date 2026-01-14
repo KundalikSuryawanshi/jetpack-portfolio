@@ -1,4 +1,4 @@
-package com.study.portfolio
+package com.study.portfolio.pfpart
 
 data class Projects(
     val projectId: Int,
